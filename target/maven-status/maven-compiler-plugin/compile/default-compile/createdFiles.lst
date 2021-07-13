@@ -1,0 +1,9 @@
+jcb\com\peliculas\domain\Pelicula.class
+jcb\com\peliculas\datos\AccesoDatos.class
+jcb\com\peliculas\excepciones\EscrituraDatosEx.class
+cpjlaboratoriofinal\CPJLaboratorioFinal.class
+jcb\com\peliculas\negocio\CatalogoPeliculasImpl.class
+jcb\com\peliculas\excepciones\AccesoDatosEx.class
+jcb\com\peliculas\excepciones\LecturaDatosEx.class
+jcb\com\peliculas\negocio\CatalogoPeliculas.class
+jcb\com\peliculas\datos\AccesoDatosImpl.class
